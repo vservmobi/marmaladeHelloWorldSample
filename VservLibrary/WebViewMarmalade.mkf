@@ -1,0 +1,18 @@
+# Public mkf file for basiclib package
+
+#includepath .
+
+#library ".,WebViewMarmalade"
+
+library
+{
+    ".,WebViewMarmalade"
+}
+
+
+subprojects
+{
+s3eWebView
+s3eDialog
+iwhttp
+}

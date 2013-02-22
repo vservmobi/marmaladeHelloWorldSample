@@ -1,0 +1,17 @@
+#!/usr/bin/env mkb
+
+files
+{
+    HelloWorldS3e.cpp
+}
+
+subprojects
+{
+../VservLibrary/WebViewMarmalade
+}
+#### AUTO GENERATED deployment settings from DeployTool.exe. Do not edit below this line ####
+deployments
+{
+	["Default"]
+	android-manifest='Menifest.xml'
+}

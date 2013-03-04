@@ -1,6 +1,6 @@
 Marmalade Hello World Sample Code
 =========================
 
-The Marmalade Hello World app with ads integrated using the Vserv.mobi Marmalade SDK
+A simple Marmalade Hello World project with which shows how to integrate Vserv.mobi's Marmalade SDK
 
-Don't forget to updated your ZoneId in HelloWorldS3e.cpp
+Note : Please remember to replace "YOUR_ZONE_ID" with your ZoneID
